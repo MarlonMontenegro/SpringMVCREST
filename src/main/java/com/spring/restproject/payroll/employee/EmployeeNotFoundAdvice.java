@@ -1,4 +1,4 @@
-package com.spring.restproject.payroll;
+package com.spring.restproject.payroll.employee;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

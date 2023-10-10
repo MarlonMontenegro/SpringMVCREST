@@ -1,4 +1,4 @@
-package com.spring.restproject.payroll;
+package com.spring.restproject.payroll.employee;
 
 public class EmployeeNotFoundException extends RuntimeException {
 
